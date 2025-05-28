@@ -19,13 +19,20 @@
     "vscode": {
       "extensions": [
         "ms-vscode.vscode-json",
-        "bradlc.vscode-tailwindcss",
-        "esbenp.prettier-vscode"
+        "ms-vscode.vscode-typescript-next",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-eslint"
       ],
       "settings": {
         "editor.formatOnSave": true,
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+        }
       }
     }
-  }
+  },
+  "mounts": [
+    "source=${localWorkspaceFolder}/data,target=/workspaces/${localWorkspaceFolderBasename}/data,type=bind"
+  ]
 }
