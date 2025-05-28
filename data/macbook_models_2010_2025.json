@@ -1,1 +1,571 @@
-
+{
+  "macbook_models": {
+    "macbook_air": [
+      {
+        "model_name": "MacBook Air (11-inch, Late 2010)",
+        "model_id": "MacBookAir3,1",
+        "release_date": "2010-10-20",
+        "support_status": "obsolete",
+        "supported_end_date": "2017-10-20",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, Late 2010)",
+        "model_id": "MacBookAir3,2",
+        "release_date": "2010-10-20",
+        "support_status": "obsolete",
+        "supported_end_date": "2017-10-20",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Air (11-inch, Mid 2011)",
+        "model_id": "MacBookAir4,1",
+        "release_date": "2011-07-20",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-07-20",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, Mid 2011)",
+        "model_id": "MacBookAir4,2",
+        "release_date": "2011-07-20",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-07-20",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Air (11-inch, Mid 2012)",
+        "model_id": "MacBookAir5,1",
+        "release_date": "2012-06-11",
+        "support_status": "obsolete",
+        "supported_end_date": "2019-06-11",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, Mid 2012)",
+        "model_id": "MacBookAir5,2",
+        "release_date": "2012-06-11",
+        "support_status": "obsolete",
+        "supported_end_date": "2019-06-11",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Air (11-inch, Mid 2013)",
+        "model_id": "MacBookAir6,1",
+        "release_date": "2013-06-10",
+        "support_status": "obsolete",
+        "supported_end_date": "2020-06-10",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, Mid 2013)",
+        "model_id": "MacBookAir6,2",
+        "release_date": "2013-06-10",
+        "support_status": "obsolete",
+        "supported_end_date": "2020-06-10",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Air (11-inch, Early 2014)",
+        "model_id": "MacBookAir6,1",
+        "release_date": "2014-04-29",
+        "support_status": "obsolete",
+        "supported_end_date": "2021-04-29",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, Early 2014)",
+        "model_id": "MacBookAir6,2",
+        "release_date": "2014-04-29",
+        "support_status": "obsolete",
+        "supported_end_date": "2021-04-29",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Air (11-inch, Early 2015)",
+        "model_id": "MacBookAir7,1",
+        "release_date": "2015-03-09",
+        "support_status": "obsolete",
+        "supported_end_date": "2022-03-09",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, Early 2015)",
+        "model_id": "MacBookAir7,2",
+        "release_date": "2015-03-09",
+        "support_status": "obsolete",
+        "supported_end_date": "2022-03-09",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, 2017)",
+        "model_id": "MacBookAir7,2",
+        "release_date": "2017-06-05",
+        "support_status": "obsolete",
+        "supported_end_date": "2024-06-05",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Air (Retina, 13-inch, 2018)",
+        "model_id": "MacBookAir8,1",
+        "release_date": "2018-11-07",
+        "support_status": "vintage",
+        "supported_end_date": "2025-11-07",
+        "latest_macos_supported": "macOS Sonoma 14.7.5"
+      },
+      {
+        "model_name": "MacBook Air (Retina, 13-inch, 2019)",
+        "model_id": "MacBookAir8,2",
+        "release_date": "2019-07-09",
+        "support_status": "vintage",
+        "supported_end_date": "2026-07-09",
+        "latest_macos_supported": "macOS Sonoma 14.7.5"
+      },
+      {
+        "model_name": "MacBook Air (Retina, 13-inch, 2020)",
+        "model_id": "MacBookAir9,1",
+        "release_date": "2020-03-18",
+        "support_status": "supported",
+        "supported_end_date": "2027-03-18",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Air (M1, 2020)",
+        "model_id": "MacBookAir10,1",
+        "release_date": "2020-11-17",
+        "support_status": "supported",
+        "supported_end_date": "2027-11-17",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Air (M2, 2022)",
+        "model_id": "Mac14,2",
+        "release_date": "2022-07-15",
+        "support_status": "supported",
+        "supported_end_date": "2029-07-15",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Air (15-inch, M2, 2023)",
+        "model_id": "Mac14,15",
+        "release_date": "2023-06-13",
+        "support_status": "supported",
+        "supported_end_date": "2030-06-13",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, M3, 2024)",
+        "model_id": "Mac15,12",
+        "release_date": "2024-03-08",
+        "support_status": "supported",
+        "supported_end_date": "2031-03-08",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Air (15-inch, M3, 2024)",
+        "model_id": "Mac15,13",
+        "release_date": "2024-03-08",
+        "support_status": "supported",
+        "supported_end_date": "2031-03-08",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Air (13-inch, M4, 2025)",
+        "model_id": "Mac16,12",
+        "release_date": "2025-03-05",
+        "support_status": "supported",
+        "supported_end_date": "2032-03-05",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Air (15-inch, M4, 2025)",
+        "model_id": "Mac16,13",
+        "release_date": "2025-03-05",
+        "support_status": "supported",
+        "supported_end_date": "2032-03-05",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      }
+    ],
+    "macbook_pro": [
+      {
+        "model_name": "MacBook Pro (13-inch, Mid 2010)",
+        "model_id": "MacBookPro7,1",
+        "release_date": "2010-04-13",
+        "support_status": "obsolete",
+        "supported_end_date": "2017-04-13",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, Mid 2010)",
+        "model_id": "MacBookPro6,2",
+        "release_date": "2010-04-13",
+        "support_status": "obsolete",
+        "supported_end_date": "2017-04-13",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (17-inch, Mid 2010)",
+        "model_id": "MacBookPro6,1",
+        "release_date": "2010-04-13",
+        "support_status": "obsolete",
+        "supported_end_date": "2017-04-13",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, Early 2011)",
+        "model_id": "MacBookPro8,1",
+        "release_date": "2011-02-24",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-02-24",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, Early 2011)",
+        "model_id": "MacBookPro8,2",
+        "release_date": "2011-02-24",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-02-24",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (17-inch, Early 2011)",
+        "model_id": "MacBookPro8,3",
+        "release_date": "2011-02-24",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-02-24",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, Late 2011)",
+        "model_id": "MacBookPro8,1",
+        "release_date": "2011-10-24",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-10-24",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, Late 2011)",
+        "model_id": "MacBookPro8,2",
+        "release_date": "2011-10-24",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-10-24",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (17-inch, Late 2011)",
+        "model_id": "MacBookPro8,3",
+        "release_date": "2011-10-24",
+        "support_status": "obsolete",
+        "supported_end_date": "2018-10-24",
+        "latest_macos_supported": "macOS High Sierra 10.13.6"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, Mid 2012)",
+        "model_id": "MacBookPro9,2",
+        "release_date": "2012-06-11",
+        "support_status": "obsolete",
+        "supported_end_date": "2019-06-11",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, Mid 2012)",
+        "model_id": "MacBookPro9,1",
+        "release_date": "2012-06-11",
+        "support_status": "obsolete",
+        "supported_end_date": "2019-06-11",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 15-inch, Mid 2012)",
+        "model_id": "MacBookPro10,1",
+        "release_date": "2012-06-11",
+        "support_status": "obsolete",
+        "supported_end_date": "2019-06-11",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 13-inch, Late 2012)",
+        "model_id": "MacBookPro10,2",
+        "release_date": "2012-10-23",
+        "support_status": "obsolete",
+        "supported_end_date": "2019-10-23",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 13-inch, Early 2013)",
+        "model_id": "MacBookPro10,2",
+        "release_date": "2013-02-13",
+        "support_status": "obsolete",
+        "supported_end_date": "2020-02-13",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 15-inch, Early 2013)",
+        "model_id": "MacBookPro10,1",
+        "release_date": "2013-02-13",
+        "support_status": "obsolete",
+        "supported_end_date": "2020-02-13",
+        "latest_macos_supported": "macOS Catalina 10.15.7"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 13-inch, Late 2013)",
+        "model_id": "MacBookPro11,1",
+        "release_date": "2013-10-22",
+        "support_status": "obsolete",
+        "supported_end_date": "2020-10-22",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 15-inch, Late 2013)",
+        "model_id": "MacBookPro11,2",
+        "release_date": "2013-10-22",
+        "support_status": "obsolete",
+        "supported_end_date": "2020-10-22",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 13-inch, Mid 2014)",
+        "model_id": "MacBookPro11,1",
+        "release_date": "2014-07-29",
+        "support_status": "obsolete",
+        "supported_end_date": "2021-07-29",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 15-inch, Mid 2014)",
+        "model_id": "MacBookPro11,2",
+        "release_date": "2014-07-29",
+        "support_status": "obsolete",
+        "supported_end_date": "2021-07-29",
+        "latest_macos_supported": "macOS Big Sur 11.7.10"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 13-inch, Early 2015)",
+        "model_id": "MacBookPro12,1",
+        "release_date": "2015-03-09",
+        "support_status": "obsolete",
+        "supported_end_date": "2022-03-09",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Pro (Retina, 15-inch, Mid 2015)",
+        "model_id": "MacBookPro11,4",
+        "release_date": "2015-05-19",
+        "support_status": "obsolete",
+        "supported_end_date": "2022-05-19",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)",
+        "model_id": "MacBookPro13,1",
+        "release_date": "2016-10-27",
+        "support_status": "obsolete",
+        "supported_end_date": "2023-10-27",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports)",
+        "model_id": "MacBookPro13,2",
+        "release_date": "2016-11-12",
+        "support_status": "obsolete",
+        "supported_end_date": "2023-11-12",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, 2016)",
+        "model_id": "MacBookPro13,3",
+        "release_date": "2016-11-12",
+        "support_status": "obsolete",
+        "supported_end_date": "2023-11-12",
+        "latest_macos_supported": "macOS Monterey 12.7.6"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)",
+        "model_id": "MacBookPro14,1",
+        "release_date": "2017-06-05",
+        "support_status": "vintage",
+        "supported_end_date": "2024-06-05",
+        "latest_macos_supported": "macOS Ventura 13.7.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports)",
+        "model_id": "MacBookPro14,2",
+        "release_date": "2017-06-05",
+        "support_status": "vintage",
+        "supported_end_date": "2024-06-05",
+        "latest_macos_supported": "macOS Ventura 13.7.5"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, 2017)",
+        "model_id": "MacBookPro14,3",
+        "release_date": "2017-06-05",
+        "support_status": "vintage",
+        "supported_end_date": "2024-06-05",
+        "latest_macos_supported": "macOS Ventura 13.7.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2018, Four Thunderbolt 3 ports)",
+        "model_id": "MacBookPro15,2",
+        "release_date": "2018-07-12",
+        "support_status": "vintage",
+        "supported_end_date": "2025-07-12",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, 2018)",
+        "model_id": "MacBookPro15,1",
+        "release_date": "2018-07-12",
+        "support_status": "vintage",
+        "supported_end_date": "2025-07-12",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)",
+        "model_id": "MacBookPro15,4",
+        "release_date": "2019-07-09",
+        "support_status": "supported",
+        "supported_end_date": "2026-07-09",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)",
+        "model_id": "MacBookPro15,2",
+        "release_date": "2019-05-21",
+        "support_status": "supported",
+        "supported_end_date": "2026-05-21",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (15-inch, 2019)",
+        "model_id": "MacBookPro15,1",
+        "release_date": "2019-05-21",
+        "support_status": "supported",
+        "supported_end_date": "2026-05-21",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (16-inch, 2019)",
+        "model_id": "MacBookPro16,1",
+        "release_date": "2019-11-13",
+        "support_status": "supported",
+        "supported_end_date": "2026-11-13",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)",
+        "model_id": "MacBookPro16,3",
+        "release_date": "2020-05-04",
+        "support_status": "supported",
+        "supported_end_date": "2027-05-04",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)",
+        "model_id": "MacBookPro16,2",
+        "release_date": "2020-05-04",
+        "support_status": "supported",
+        "supported_end_date": "2027-05-04",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, M1, 2020)",
+        "model_id": "MacBookPro17,1",
+        "release_date": "2020-11-17",
+        "support_status": "supported",
+        "supported_end_date": "2027-11-17",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (14-inch, 2021)",
+        "model_id": "MacBookPro18,3",
+        "release_date": "2021-10-26",
+        "support_status": "supported",
+        "supported_end_date": "2028-10-26",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (16-inch, 2021)",
+        "model_id": "MacBookPro18,1",
+        "release_date": "2021-10-26",
+        "support_status": "supported",
+        "supported_end_date": "2028-10-26",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (13-inch, M2, 2022)",
+        "model_id": "Mac14,7",
+        "release_date": "2022-06-24",
+        "support_status": "supported",
+        "supported_end_date": "2029-06-24",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (14-inch, 2023)",
+        "model_id": "Mac14,5",
+        "release_date": "2023-01-17",
+        "support_status": "supported",
+        "supported_end_date": "2030-01-17",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (16-inch, 2023)",
+        "model_id": "Mac14,6",
+        "release_date": "2023-01-17",
+        "support_status": "supported",
+        "supported_end_date": "2030-01-17",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (14-inch, Nov 2023)",
+        "model_id": "Mac15,3",
+        "release_date": "2023-11-07",
+        "support_status": "supported",
+        "supported_end_date": "2030-11-07",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (16-inch, Nov 2023)",
+        "model_id": "Mac15,7",
+        "release_date": "2023-11-07",
+        "support_status": "supported",
+        "supported_end_date": "2030-11-07",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (14-inch, 2024)",
+        "model_id": "Mac16,1",
+        "release_date": "2024-11-08",
+        "support_status": "supported",
+        "supported_end_date": "2031-11-08",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (14-inch, 2024, M4 Pro/Max)",
+        "model_id": "Mac16,6",
+        "release_date": "2024-11-08",
+        "support_status": "supported",
+        "supported_end_date": "2031-11-08",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      },
+      {
+        "model_name": "MacBook Pro (16-inch, 2024)",
+        "model_id": "Mac16,5",
+        "release_date": "2024-11-08",
+        "support_status": "supported",
+        "supported_end_date": "2031-11-08",
+        "latest_macos_supported": "macOS Sequoia 15.5"
+      }
+    ]
+  },
+  "support_status_definitions": {
+    "supported": "Devices are eligible for all Apple services and support, including hardware repairs and software updates.",
+    "vintage": "Devices are no longer manufactured but may still be serviced by Apple and authorized service providers, subject to parts availability. Typically applies to products discontinued 5-7 years ago.",
+    "obsolete": "Devices are no longer eligible for hardware service from Apple or authorized service providers, except as required by law. Typically applies to products discontinued more than 7 years ago."
+  },
+  "notes": {
+    "macos_compatibility": "The 'latest_macos_supported' reflects the highest version of macOS officially supported by Apple for each model. Some models may run newer versions with third-party modifications but without official support.",
+    "support_dates": "Support end dates are estimated based on Apple's typical 7-year support cycle from discontinuation date. Actual dates may vary based on Apple policy changes.",
+    "model_identifiers": "Model identifiers can be found in About This Mac or System Information. These are used for technical support and compatibility verification.",
+    "vintage_obsolete_timing": "Products typically become 'vintage' 5 years after discontinuation and 'obsolete' 7 years after discontinuation, with some regional variations (California and Turkey have extended vintage periods)."
+  }
+}
